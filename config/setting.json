@@ -1,0 +1,7 @@
+{
+  "iou": 0.35,
+  "conf": 0.35,
+  "rate": 20,
+  "check": 2,
+  "savecheck": 2
+}
